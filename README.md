@@ -1,5 +1,5 @@
 # btcliveprice
-See the live btc Price.
+See the live Price of Bitcoin
 
 
 
